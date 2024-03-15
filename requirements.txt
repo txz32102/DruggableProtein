@@ -1,0 +1,3 @@
+#tested on python3.10.12
+fair-esm>=2.0.0
+torch>=2.0.0
